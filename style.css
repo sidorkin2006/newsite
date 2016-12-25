@@ -1,6 +1,10 @@
 body {margin-top: 0px; padding:0px;}
 
-header {width: 960px;background-color: coral;}
+header {width: 960px;
+	     background-color: coral;overflow: auto;}
+.container{width:960px;margin:0px auto;}
+.col {min-height: 200px;width:300px;background:besque;}
 
-
+.left {float:left;}
+.right{float:right;}
 
