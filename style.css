@@ -14,7 +14,8 @@ nav ul {display:block;
         height:30px;
         background-image:url("img/fon-m.svg");margin-top:0px;
 }
-nav li{display: inline-block;list-style: none;}
+nav li{float:left;list-style: none;}
+
 nav li a {display:block;
           text-decoration: none; 
           color:white;
